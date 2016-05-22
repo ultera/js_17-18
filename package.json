@@ -1,0 +1,25 @@
+{
+  "name": "js_17-18_grunt",
+  "version": "1.0.0",
+  "description": " Grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ultera/js_17-18.git"
+  },
+  "author": "ann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ultera/js_17-18/issues"
+  },
+  "homepage": "https://github.com/ultera/js_17-18#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-uglify": "^1.0.1"
+  }
+}
